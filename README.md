@@ -1,9 +1,5 @@
 👋 Hello! I'm Uthsara Wickramaarachchi, a passionate computer engineering undergraduate in my third year of studies. My interests span a wide range of tech domains, including full-stack development, Android app development, automation, data analysis, and machine learning.
 
-
-![1683592998021](https://github.com/uthsaraiw/uthsaraiw/assets/115542219/a5952bf9-fa3c-495c-92ba-a4371bdb1f69)
-
-
 🚀 **Some of the notable projects I've had the privilege to work on include:**
 
 1. [Leaf Area Detection](https://github.com/uthsaraiw/Complete-Hotel-Reservation-system)): A project focused on efficient leaf area measurement using computer vision techniques.
